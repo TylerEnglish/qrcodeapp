@@ -1,1 +1,8 @@
 streamlit
+streamlit
+pandas
+pyarrow
+Pillow
+qrcode
+lxml
+ezdxf
